@@ -1,4 +1,4 @@
-from products import product_details
+from product_details import product_details
 
 def test_product_details():
     expected_output = (
